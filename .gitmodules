@@ -1,0 +1,3 @@
+[submodule "MachineLearningMethods"]
+	path = MachineLearningMethods
+	url = https://github.com/Talerzyk/MachineLearningMethods.git
