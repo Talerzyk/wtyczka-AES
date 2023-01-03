@@ -1,20 +1,31 @@
 ---
-name: Task
-about: A small task that is, most likely, part of an Epic. It will usually be labeled as `good first issue`.
+name: Bug report
+about: Create a report to help us improve
 ---
 
-<!-- Issue title should mirror the Task Title. -->
+<!-- Please search existing issues to avoid creating duplicates. -->
 
-# Task Title
+# Bug Report
 
-Task: Awesome Task Title
+Bug: Not so Awesome Bug Title
 
-## Task Description
+## Description
 
-This Task will...
+Info about the bug goes here.
 
-## Epic Parent
+### Steps to Reproduce
 
-<!-- The link below should link to its Epic Parent. -->
+1. Step 1
+2. Step 2
 
-[Feature: Awesome Feature Title](https://github.com/username/repository-name/issues/1)
+### Expected Result
+
+The expected result was...
+
+You may write the expected result or add a screenshot.
+
+### Actual Results
+
+The actual result was...
+
+Would be awesome to link screenshots here and/or error messages received.
