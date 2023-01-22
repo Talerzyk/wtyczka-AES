@@ -1,8 +1,8 @@
 %% Tasks
 %% task1
 clear;
-load("Music_Ozerov.mat");
-%load("Shannon_Hurley.mat");
+load("submodules\MachineLearningMethods\3\Music_Ozerov.mat");
+%load("submodules\MachineLearningMethods\3\Shannon_Hurley.mat");
  
 A= rand(3);
 S=A*S;
